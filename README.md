@@ -66,3 +66,21 @@ netflix-clone/
 - Working with **positioning** and **z-index** for video-over-image effects
 
 ---
+
+✨ Future Improvements
+Add interactivity to FAQ (using JavaScript)
+
+Add animations and transitions
+
+Deploy with Netlify or GitHub Pages
+
+📇 Credits
+Official Netflix assets used for educational purposes only.
+
+Inspired by the original Netflix India landing page.
+
+📜 License
+This project is licensed for educational and non-commercial use only.
+
+
+💻 Made with 💖 by Deepika...

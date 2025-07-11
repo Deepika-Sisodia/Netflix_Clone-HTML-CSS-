@@ -67,22 +67,22 @@ netflix-clone/
 
 ---
 
-✨ Future Improvements
+## ✨ Future Improvements
 Add interactivity to FAQ (using JavaScript)
 
 Add animations and transitions
 
 ---
 
-📇 Credits
+## 📇 Credits
 Official Netflix assets used for educational purposes only.
 
 Inspired by the original Netflix India landing page.
 
 ---
 
-📜 License
+## 📜 License
 This project is licensed for educational and non-commercial use only.
 
 
-💻 Made with 💖 by Deepika...
+## 💻 Made with 💖 by Deepika...
